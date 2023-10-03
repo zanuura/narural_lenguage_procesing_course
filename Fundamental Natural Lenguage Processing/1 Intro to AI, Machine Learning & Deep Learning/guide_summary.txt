@@ -1,0 +1,41 @@
+Intro Machine Learning $ Deep Learning
+
+Artificial Intelegent (AI) = teknologi komputer yang memungkinkan mesin untuk melakukan tugas-tugas yang 
+			memerlukan kecedasan manusia , seperti pngenalan wajah, pemrosesan bahasa alami, 
+			pengambilan keputusan dan banyak lagi.
+
+Machine Learing (ML) = cabang dari AI yang memungkinkan mesin untuk belajar dari data dan meningkatkan
+			kinerja mereka terus menerus sering bertambahnya pengalaman dengan menggunakan 
+			algoritma untuk mempelajari pola dari data untuk membuat prediksi atau tindakan
+			dan algoritma pada ML dapat di bagi dua yaitu Supervised Learning (melibatkan 
+			pembalajaran dari data ber label) & Unsupervised Learning (pembelajaran dari data
+			tidak berlabel)
+Deep Learning (DL) = adalah ML yang menggunakan arsitektur jaringan neuron dengan banyak lapisan terinspirasi
+			dari saraf otak manusia. Arsitektur jaringan neural ini terdiri dari banyak node yang
+			saling terhubung sehingga proses pembelajaran pada deep learing dilakukan dengan 
+			memperbaiki bobot dan bias dari node-node ini secara terys menerus.
+
+History AI dimulai sejak tahun 1956 letika John McCarthy, <arvin Minsky, Nathaniel Rochester, dan Claude Shannon
+mengadaan konferensi yang dikenal sebagai Konrefersni Dartmouth untuk membahasa konsep konsep dasar AI
+
+1956 - awal pengembangan AI, peneliti bekerja dg menggunakan metode-metode sederhana seperti aturan pemrograman 
+	dan penggalian data (data mining)
+1960-an - Kemajuan penting dalam bidang AI, yaitu pengembangan program yang dapat belajar dan
+	mengevaluasi diri sendiri
+1970-1980 - bidang AI mengalami kemunduran, disebabkan kurangnya dukungan keuangan dan kegagalan dalam memecahkan
+		masalah yang sulit, seperti pengenalan wajah dan pemrosesan bahasa alami.
+1990 - bidang AI berkembang pesat dg munculnya internet dan pemrosesan yang lebih cepat. tahun 1997
+	deep blue buatan IBM berhasil mengalahkan juara dunia saat itu, Garry Kasparov.
+2011 - Mesin Jeopardy buatan IBM yang disebut watson berhasil mengalahkan juara manusia dalam acara jeopardy.
+
+Kelebihan - kemampuan memproses data dalam jumlah besar dan kompleks
+	  - dapat melakukan tugas yang berulang dg konsisten dan kecepatan tinggi
+	  - mengurangi biaya dan waktu yang dibutuhkan untuk pekerjaan yang di lakukan oleh manusia
+	  - dapat bekerja selama 24 jam sehari seminggu sehingga meningkatakan efisiensi dan produktivitas
+
+Kekurangan - kecebderungan memperkuat bias yang mungkin ada dalam data AI akan menghasilan keputusan
+	     yang tidak adil atau tidak akurat
+	   - memerlukan data yang berkualitas tinggi untuk menhasilkan model yang akurat
+	     pengumpulan data berkualitas tinggi bisa menjadi mahal dan memerlukan waktu
+	   - memerlukan ahli atau spesialis yang dapat memahami dan memprogram algoritma AI.
+	     yang dapat menjadi tantangan dalam hal biaya dan ketersediaan tenaga kerja yang terampil.

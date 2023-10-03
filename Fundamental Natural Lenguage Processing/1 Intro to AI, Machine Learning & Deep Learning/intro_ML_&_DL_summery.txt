@@ -1,0 +1,109 @@
+Intro ML & DL
+
+What is AI?
+
+- "it is the science and engineering of making intelegent machines, 
+   especially intelegent computer program". John McCarthy (Computer Scientist, 1927 - 2011)
+
+Weak AI & Strong AI
+ANI = Artificial Narrow Intelligence (e.g. siri, google translate, self driving car, AI in factories)
+AGI = Artficial General Intelligence (e.g. Terminator, Skynet, Robot who can di anything)
+
+
+AI != Robot
+
+
+Jenis-jenis AI
+- Computer Vision e.g - Face Detection, self driving
+- Natural Lenguage Processing e.g - google translate, amazon alexa, siri, text generation by Open AI
+- Reinforcement Learning e.g - Minecraft Game, Power plant
+
+
+Definition AI, Machine Learing, Deep Learning
+
+Expert System = Metode atau teknik AI dengan memanfaatkan data dalam jumlah besar(knowlage base)
+
+Artificial Intelligence = konsep atau gagasan tentang mesin yang memiliki kecerdasan seperti manusia.
+
+Machine Learning = Metode atau teknik membangun kecerdasan pada mesin dengan belajar dari data dalam jumlah besar.
+
+Deep Learning = Metode atau teknik khusus untuk membangun kecerdasan pada mesin yang meniru cara kerja otak manusia.
+
+
+DENDRAL (1965)
+AI yang membantu ahli kmia mengidentifikasi molekul organik dan bakteri seperti bakterimia dan meningintis
+lalu memberi rekomendasi antibiotik dan dosisnya.
+
+	Knowlage Base("if x, then y" and "if y, then z")
+     		|
+	Inference Engine(deduction:"if x, then z")
+     		|
+	User Interface(user access it)
+
+
+Artificial Intelligence != Data Sience
+karna ouput dari keduanya berbeda
+
+
+Mengenal Terminilogi Dasar
+1. Supervised Learning
+2. Labelisasi
+3. Klasifikasi
+4. Regresi
+5. Unsupervised Learning
+6. Dan masih banyak lagi
+
+
+A. Supervised Learning
+	Merupakan pendekatan belajar pada machine learning yang melakukan proses pembelajaran
+melalui pengawasan atau supervisi dalam bentuk labelisasi oleh expert atau seorang ahli seperti dokter
+
+contoh:      A ----------------> B
+	   input               Output
+        CT Scan Image        Cancer/Not
+           Email               Spam?
+          English             Japanese
+            Ads                Click?
+    Employee Performance        Paid?
+         Phone image           Defect?
+
+note: mayoritas penerapan AI di industri menerapkan metode belajar supervised learning
+
+
+B. Klasifikasi & Regresi
+kedua hal ini adalah bentuk maslaah prediksi yan biasanya ditangani dalam penerapan Machine Learning
+- Klasifikasi = Problem question: Apakah karyawan akan di gaji sebesar 5 juta rupiah per bulan? (Y/N)
+				: Apakah kebakaran hutan yang terjadi tergolong kecil, biasa, besar? (A/B/C)
+--- klasifikasi bisa disebut persoalan kategorisasi dengan jumlah kategori minimal 2 atau lebih.
+
+- Regresi = Problem question: Berapa gaji yang pantas diberikan kepada karyawan?
+                  	    : Berapa luas lahan yang terbakar karena insiden kebakaran hutan? 
+
+
+
+o- Metode Belajar
+
+- Unsupervised Learning
+
+- Semi-supervised-learning
+
+- Reinforcement Learning
+
+- Self-learning
+
+- Imitation Learning 
+
+- Dan masih banyak lagi
+
+
+
+
+
+
+
+
+
+
+
+
+
